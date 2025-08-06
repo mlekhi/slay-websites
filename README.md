@@ -1,4 +1,4 @@
-# beloved websites
+# slay websites
 
 https://www.are.na/
 
