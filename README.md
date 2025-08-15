@@ -15,3 +15,5 @@ https://koolaidfactory.com/ - precise abstract visuals
 https://ncase.me/ - whimsical!
 
 https://www.braydenpetersen.com/ - crazy font game
+
+https://symposium.socratica.info/ - colors, texture, placement, all 10/10
