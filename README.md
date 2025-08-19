@@ -23,3 +23,5 @@ https://www.awwwards.com/ - space usage wow
 https://lanyard.learnframer.site/
 
 https://www.usc.so/
+
+https://framer.university/resources - helpful micro-interactions
