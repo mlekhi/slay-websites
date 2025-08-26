@@ -27,3 +27,7 @@ https://www.usc.so/
 https://framer.university/resources - helpful micro-interactions
 
 https://www.joshuawolk.com/ - the holy grail
+
+https://www.runpod.io/ - beautiful landing & copy
+
+https://hyypatia.com/ - love their scroll interaction
