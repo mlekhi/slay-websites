@@ -31,3 +31,5 @@ https://www.joshuawolk.com/ - the holy grail
 https://www.runpod.io/ - beautiful landing & copy
 
 https://hyypatia.com/ - love their scroll interaction
+
+https://www.normalfactory.com/ - great copy too
