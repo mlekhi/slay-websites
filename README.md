@@ -33,3 +33,7 @@ https://www.runpod.io/ - beautiful landing & copy
 https://hyypatia.com/ - love their scroll interaction
 
 https://www.normalfactory.com/ - great copy too
+
+https://rghv.ca/works - nice blur on header
+
+https://www.rachelchen.tech/
