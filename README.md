@@ -39,3 +39,5 @@ https://rghv.ca/works - nice blur on header
 https://www.rachelchen.tech/
 
 https://f.inc/artifact - beautiful colours
+
+https://baincapitalventures.com/insight/application-open-now-the-2026-bcv-labs-summer-fellowship/ - text
